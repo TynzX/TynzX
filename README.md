@@ -1,5 +1,24 @@
-<h2 align="left">Hi 👋! My name is Naveen and I'm a Next js powered Front End Developer, from India.</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TynzX.TynzX" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naveen+Kumar!;" />
+</h1>
+
+<h3 align="center">A passionate Next Js Powered Front End developer from India 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **backend, NodeJs, Java**
+
+💬 Ask me about **React, UI/UX, Video Editing and Animation... or anything [here](https://www.linkedin.com/in/naveendevelops/)**
+
+⚡ Fun fact **Deku’s costume design in My Hero Academia was inspired by classic superheroes like Spider-Man and Superman? His original mask with bunny ears was a nod to his mother, who made the costume herself!**
+
+ </div>
 ###
 
 <div align="center">

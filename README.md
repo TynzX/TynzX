@@ -19,7 +19,6 @@
 ⚡ Fun fact **Deku’s costume design in My Hero Academia was inspired by classic superheroes like Spider-Man and Superman? His original mask with bunny ears was a nod to his mother, who made the costume herself!**
 
  </div>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TynzX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />

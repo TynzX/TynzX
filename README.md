@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naveen+Kumar!;" />
 </h1>
 
-<h3 align="center">A Next Js Powered Front End developer from India 🇮🇳</h3>
+<h3 align="center">A Full Stack developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Customer Support Portal**
+ 🔭 I’m currently working as **SDE at Original innovation**
  
  🌱 I’m currently learning **backend, NodeJs, Java**
 
